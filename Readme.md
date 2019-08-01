@@ -1,7 +1,9 @@
 #### Run
 
 ```bash
-curl -s -L https://raw.githubusercontent.com/DioniPinho/Self-Signed-Certificate/master/create_certificate.sh -O | chmod +x create_certificate.sh && ./create_certificate.sh
+curl -s -L \
+  https://raw.githubusercontent.com/DioniPinho/Self-Signed-Certificate/master/create_certificate.sh -O | \
+  chmod +x create_certificate.sh && ./create_certificate.sh
 
 ```
 
