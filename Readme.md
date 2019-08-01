@@ -7,6 +7,6 @@ https://raw.githubusercontent.com/DioniPinho/Self-Signed-Certificate/master/crea
 
 ```
 
-Fill field with values.
+Fill in the fields with the appropriate values.
 
-the certs are int the certs folder.
+The certificates will be generated in the certs folder..
